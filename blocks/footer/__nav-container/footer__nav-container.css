@@ -1,0 +1,11 @@
+.footer__nav-container {
+  display: flex;
+  padding-right: 30px;
+  align-items: center;
+  margin-right: 12px;
+}
+
+.footer__nav-container:last-child {
+  padding-right: 0;
+}
+

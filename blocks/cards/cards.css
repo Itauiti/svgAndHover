@@ -1,0 +1,21 @@
+@import url(./__image/cards__image.css);
+@import url(./__item/cards__item.css);
+@import url(./__label/cards__label.css);
+@import url(./__text/cards__text.css);
+@import url(./__title/cards__title.css);
+@import url(./__text-container/cards__text-container.css);
+@import url(./__container/cards__container.css);
+@import url(./__cost-icon-container/cards__cost-icon-container.css);
+@import url(./__cost-container.css/cards__cost-container.css);
+@import url(./__cost/cards__cost.css);
+@import url(./__icon-container/cards__icon-container.css);
+@import url(./__label-container/__label-container.css);
+@import url(./__title/cards__title.css);
+
+.cards {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  display: grid;
+  grid-template-columns: repeat(3, 270px);
+  grid-gap: 30px;
+}

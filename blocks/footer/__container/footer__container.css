@@ -1,0 +1,10 @@
+.footer__container {
+  max-width: 1440px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  min-height: 110px;
+  margin: 0 auto 0;
+}

@@ -1,0 +1,15 @@
+.button_theme_white {
+  background: inherit;
+  border-color: #34AADD;
+  color:#34AADD;
+  height: 50px;
+}
+
+.button_theme_white:hover {
+  color: #6680AE;
+  border-color: #6680AE;
+}
+
+.button_theme_white:active {
+  opacity: 0.5;
+}

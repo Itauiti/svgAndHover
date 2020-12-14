@@ -1,0 +1,18 @@
+@import url(./_theme/_colored/button_theme_colored.css);
+@import url(./_theme/_white/button_theme_white.css);
+@import url(./_placed/_header/button_placed_header.css);
+
+.button {
+  cursor: pointer;
+  outline: none;
+  font-weight: 500;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 18px 30px;
+  transition: all 0.3s linear;
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+}
+
+

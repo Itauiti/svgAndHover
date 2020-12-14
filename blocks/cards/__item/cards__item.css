@@ -1,0 +1,7 @@
+.cards__item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  border: 1px solid #EBEBF1;
+  border-radius: 6px;
+}

@@ -1,0 +1,16 @@
+@import url(./__container/footer__container.css);
+@import url(./__nav-link/footer__nav-link.css);
+@import url(./__nav/footer__nav.css);
+@import url(./__social-icon/footer__social-icon.css);
+@import url(./__social/footer__social.css);
+@import url(./__nav-item/footer__nav-item.css);
+@import url(./__nav-container/footer__nav-container.css);
+@import url(./__button/footer__button.css);
+@import url(./__social-item/footer__social-item.css);
+@import url(./__logo/footer__logo.css);
+@import url(./__button-icon/footer__button-icon.css);
+
+
+.footer {
+  background-color: #FAFAFA;
+}

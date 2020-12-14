@@ -1,0 +1,10 @@
+.cards__icon-container {
+  background: #34AADD;
+  border-radius: 6px;
+  padding: 12px 12px 7px;
+  cursor: pointer;
+}
+
+.cards__icon-container:hover {
+  background: #6680AE;;
+}

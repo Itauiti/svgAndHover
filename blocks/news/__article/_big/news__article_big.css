@@ -1,0 +1,6 @@
+.news__article_big {
+  justify-content: center;
+  padding: 50px;
+  flex-grow: 2;
+  max-width: 770px;
+}

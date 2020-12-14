@@ -1,0 +1,4 @@
+.footer__social-icon:hover {
+  fill: #768298;
+  transition: all 0.3s linear;
+}

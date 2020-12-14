@@ -1,0 +1,13 @@
+.button_theme_colored {
+  background: #34AADD;
+  color: #fff;
+  height: 50px;
+}
+
+.button_theme_colored:hover {
+  background: #6680AE;
+}
+
+.button_theme_colored:active {
+  opacity: 0.5;
+}

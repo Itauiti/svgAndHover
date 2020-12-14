@@ -1,0 +1,15 @@
+.cards__cost_discount {
+  color: #768298;
+  font-weight: normal;
+}
+
+.cards__cost_discount::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 8px;
+  border-top: 2.3px solid #F95A59;
+  transform: rotate(23.63deg);
+}
+

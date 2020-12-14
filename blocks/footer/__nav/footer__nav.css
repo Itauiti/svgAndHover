@@ -1,0 +1,6 @@
+.footer__nav {
+  display: flex;
+  padding-left: 40px;
+  border-left: 1px solid #BBC4D6;
+  height: 40px;
+}

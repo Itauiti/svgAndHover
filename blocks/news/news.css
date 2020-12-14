@@ -1,0 +1,14 @@
+@import url(./__article-container/news__article-container.css);
+@import url(./__article-line/news__article-line.css);
+@import url(./__article/news__article.css);
+@import url(./__container/news__container.css);
+@import url(./__article/_big/news__article_big.css);
+@import url(./__article/_background/_1/news__article_background_1.css);
+@import url(./__article/_background/_2/news__article_background_2.css);
+@import url(./__article/_no-margin-r/news__article_no-margin-r.css);
+@import url(./__text/news__text.css);
+@import url(./__title/news__title.css);
+
+.news {
+  background-color: #F0F0F0;
+}

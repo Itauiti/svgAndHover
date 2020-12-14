@@ -1,0 +1,15 @@
+.footer__nav-link {
+  color: #34AADD;
+}
+
+.footer__nav-link:hover {
+  text-decoration: underline;
+}
+
+.footer__nav-link:active {
+  opacity: 0.5;
+}
+
+
+
+

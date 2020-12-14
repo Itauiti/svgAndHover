@@ -1,0 +1,4 @@
+.footer__logo:hover {
+  fill: #768298;
+  transition: all 0.3s linear;
+}

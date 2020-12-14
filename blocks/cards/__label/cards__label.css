@@ -1,0 +1,9 @@
+@import url(./_theme/_yellow/cards__label_theme_yellow.css);
+@import url(./_theme/_pink/cards__label_theme_pink.css);
+@import url(./_theme/_purple/cards__label_theme_purple.css);
+
+.cards__label {
+  border-radius: 3px;
+  padding: 4px 10px;
+  margin-right: 4px;
+}

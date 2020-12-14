@@ -1,0 +1,9 @@
+.cards__image {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  object-fit: cover;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom: 1px solid #EBEBF1;
+}

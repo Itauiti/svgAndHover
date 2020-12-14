@@ -1,0 +1,11 @@
+.cards__title {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  cursor: pointer;
+}
+
+.cards__title:hover {
+  color: #34AADD;
+}

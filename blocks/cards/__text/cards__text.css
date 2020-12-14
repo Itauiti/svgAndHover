@@ -1,0 +1,10 @@
+.cards__text {
+  color: #768298;
+  margin-top: 10px;
+  margin-bottom: 0;
+  max-height: 88px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}

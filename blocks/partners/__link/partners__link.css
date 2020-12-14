@@ -1,0 +1,17 @@
+.partners__link {
+  min-height: 100px;
+  border: 1px solid #EBEBF1;
+  border-radius: 5px;
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.partners__link:hover {
+  box-shadow: -3px 0px 40px rgba(0, 0, 0, 0.1), 0px 0px 10px rgba(164, 164, 164, 0.03);
+}
+
+
+
+
+

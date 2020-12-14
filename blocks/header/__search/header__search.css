@@ -1,0 +1,11 @@
+.header__search {
+  flex-grow: 1;
+  margin-left: 50px;
+  margin-right: 50px;
+  min-height: 40px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  color: #BBC4D6;
+  cursor: pointer;
+}

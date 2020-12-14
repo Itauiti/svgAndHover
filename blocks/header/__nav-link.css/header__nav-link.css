@@ -1,0 +1,9 @@
+.header__nav-link {
+  text-decoration: none;
+  font-size: 18px;
+  color: #768298;
+}
+
+.header__nav-link:hover {
+  color: #34AADD;;
+}

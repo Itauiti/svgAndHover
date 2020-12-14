@@ -1,0 +1,14 @@
+.news__article {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 369px;
+  padding: 20px 30px 20px 20px;
+  border-radius: 6px;
+  color: #fff;
+  position: relative;
+  flex-grow: 1;
+  max-width: 369px;
+  margin-right: 30px;
+  cursor: pointer;
+}

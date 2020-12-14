@@ -1,0 +1,8 @@
+.news__article-container {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.news__article-container:last-child {
+  padding-bottom: 0;
+}

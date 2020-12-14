@@ -1,0 +1,9 @@
+.header__search-button {
+  position: absolute;
+  top: 12px;
+  right: 15px;
+}
+
+.header__search-input:hover + .header__search-button {
+  fill: #121920;
+}
