@@ -9,4 +9,4 @@
 
 ### CSS, HTML, BEM, GIT
 
-### Сайт работы можно посмотреть по ссылке: https://itauiti.github.io/svgAndHover.github.io/
+### Сайт работы можно посмотреть по ссылке: https://itauiti.github.io/svgAndHover/
